@@ -44,6 +44,7 @@ header {
 main {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .movie {
@@ -57,7 +58,7 @@ main {
 }
 
 .movie img {
-  width: 100px;
+  width: 100%;
 }
 
 .movie-info {
